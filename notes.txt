@@ -1,0 +1,227 @@
+node.js  javascript run time environment open source ,cross platform 
+updating version in an every single day
+node js is used to run js outside browser
+18.17.1  lts
+20.5.1   current
+winget search node
+major minor bug
+
+
+
+commands:
+command line
+ide also trigger the program from command line
+cli --   command line interface
+
+
+
+code editor - notepad
+file manager - to save the file
+compiler
+output location
+node name.js
+node contains npm and npx 
+npm for downloading packages
+npx create new project
+
+
+
+
+vs code -- free and runs everywhere open source
+has active contributors
+gives  optimisation over notepad
+
+
+
+React is js libraray of node.js 
+It is not a Software
+React
+The library for web and native user interfaces--( android and ios is native  )
+It is used to create user interfaces  (UI)
+npm is also installed along with node
+node package manager
+
+
+full stack developer atleast 12 programming languages
+user interface and user experience is a front end development
+
+npx js library 
+
+
+npx create-react-app learning - to create an new project in the react
+
+
+(vite angular vue.js )
+node
+npm --version 
+npx --version 
+node index.js
+npx create-react-app learning
+
+react is not a framework
+framework error management modules 
+same procedure for all js related modules
+
+pakage,json all the dependecies needed for react are present here
+readme -> helpful for open source 
+node modules -> holds all the dependecies files
+delete node modules and share as a zip file
+
+npm install ->checks package.json file and install all the dependencies
+react is an single page application -- only one html file,others are js and css
+
+
+div is an container
+
+public has index.html connected with app.js 
+
+react is an component based ui network
+
+header navigationbar body content 
+eack component are created in the react seperately
+
+components -> functional and class render and return some object to the prent class    ==   stateless and stateful == private to component
+jsx - javascript extension
+accept input as a probe messages and converts into js objects and convert into the componenets
+
+
+oops components
+1.objects   ==    variable , functional-> stores functions
+2.
+
+
+
+first index runs
+index calls app
+in app home content is imported in default 
+then it shows the app content .
+
+
+install vite
+mpm install -g create-vite
+
+react app with vite
+create-vite
+select react with javascript optimisation
+create an project 
+
+redux +vite+redux
+react redux
+
+
+
+react router dom
+
+
+react router
+npm i react-router-dom
+
+
+
+
+
+
+
+
+Microsoft Windows [Version 10.0.22000.2176]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training>cd vite
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\vite>npm install -g create-vite
+
+changed 1 package in 1s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\vite>create-vite
+√ Project name: ... vite-project
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\vite\vite-project...
+
+Done. Now run:
+
+  cd vite-project
+  npm install
+  npm run dev
+
+
+
+
+
+
+
+
+
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\vite>cd vite-project
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\vite\vite-project>npm install
+
+added 260 packages, and audited 261 packages in 19s
+
+96 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\vite\vite-project>cd..
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\vite>npm i react-router-dom  
+
+added 8 packages in 2s
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\vite>cd..
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training>cd redux
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\redux>npm i react-router-dom 
+
+added 8 packages in 1s
+
+C:\Users\G V Dhanesh\Desktop\Web Dev\one data solutions training\redux>
+
+
+
+
+
+
+vite used to run packages of js  it is a js library
+
+node is needed for development and not needed for productionnp
+
+
+vite is a feature of jsx
+functional componenet return fi=unction and it has a function keyword
+
+rfce  = functional
+rce   = class components
+
+inside a return it is child
+controls return is a parent
+props is immutable pass from parent to child
+
+interpolation is used to receive jsx object to js object
+{this.} as a keyword
+
+props is an immutable variable
+state is an mutable variable
+
+
+event is a action
+
+
+Lifecycle in react:
+1.create 
+2.update
+3.unmount
+
+running and displaying
+
+
+conditional list 
+
+distributed people work
